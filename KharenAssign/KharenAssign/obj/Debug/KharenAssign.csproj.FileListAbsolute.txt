@@ -1,0 +1,10 @@
+C:\Users\user\Documents\kharen\KharenAssign\KharenAssign\bin\Debug\KharenAssign.exe.config
+C:\Users\user\Documents\kharen\KharenAssign\KharenAssign\bin\Debug\KharenAssign.exe
+C:\Users\user\Documents\kharen\KharenAssign\KharenAssign\bin\Debug\KharenAssign.pdb
+C:\Users\user\Documents\kharen\KharenAssign\KharenAssign\obj\Debug\KharenAssign.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\kharen\KharenAssign\KharenAssign\obj\Debug\KharenAssign.Form2.resources
+C:\Users\user\Documents\kharen\KharenAssign\KharenAssign\obj\Debug\KharenAssign.Form1.resources
+C:\Users\user\Documents\kharen\KharenAssign\KharenAssign\obj\Debug\KharenAssign.Properties.Resources.resources
+C:\Users\user\Documents\kharen\KharenAssign\KharenAssign\obj\Debug\KharenAssign.csproj.GenerateResource.Cache
+C:\Users\user\Documents\kharen\KharenAssign\KharenAssign\obj\Debug\KharenAssign.exe
+C:\Users\user\Documents\kharen\KharenAssign\KharenAssign\obj\Debug\KharenAssign.pdb
